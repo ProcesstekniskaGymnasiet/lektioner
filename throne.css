@@ -1,0 +1,43 @@
+header {
+   font-weight: 300;
+   text-transform: uppercase;
+   font-size: .9em;
+   padding: 2em;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+ul  {
+   padding-left: 0.9em;
+}
+
+nav ul {
+   color: #8B8B8B;
+   display: flex;
+   justify-content: space-between;
+}
+
+nav li {
+   padding: 0 0.8em;
+   list-style-type: none;
+}
+
+.tools .ikoner {
+   background-color: #8B8B8B;
+   color: #fff;
+   display: inline-block;
+   font-size: 1.0em;
+   height: 40px;
+   width: 40px;
+   /* line-height: 50px; */
+   text-align: center;
+}
+
+nav li :last-child {
+   margin-left: .4em;
+}
+
+.logo img {
+   display: block;
+}

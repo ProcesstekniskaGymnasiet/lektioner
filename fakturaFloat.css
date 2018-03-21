@@ -1,0 +1,27 @@
+.totals {
+   background-color: #ddd;
+   font-family: 'Raleway', sans-serif;
+   text-transform: uppercase;
+   width: 24em;
+   margin: 3em auto 0;
+   padding: 1em;
+   overflow: hidden;
+   border-bottom: 2px solid #bbb;
+   border-left: 5px solid #abc111;
+
+}
+
+.fakText {
+   font-weight: 300;
+   line-height: 1.5em;
+}
+
+.totalSifra {
+   font-size: 1.5em;
+   color: #abc111;
+   float: right;
+}
+
+.totalSifra span {
+   font-size: 0.8em;
+}

@@ -1,0 +1,20 @@
+.item-container {
+   width: 26rem;
+   margin: 2em auto;
+}
+
+.item {
+   background-color: #DDD;
+   padding: 1em;
+   margin-bottom: .25em;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.next {
+   font-size: 1.8em;
+   line-height: 1;
+   font-weight: 300;
+   color: #aaa;
+}
