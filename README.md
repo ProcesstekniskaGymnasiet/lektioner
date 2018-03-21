@@ -1,6 +1,6 @@
 # Lektioner
 
-Olika kod skapad i Webbutvecklings lektioner som
+Kod skapad i Webbutvecklings lektioner som
 fungerar som exempel till webbutveckling sida
 
 
